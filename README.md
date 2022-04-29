@@ -1,4 +1,4 @@
-# Signature Work 2022: Agent-Based Modeling for Blockchain Automated Market Maker and Economic Applications
+# Signature Work 2022 DKU: Agent-Based Modeling for Blockchain Automated Market Maker and Economic Applications
 
 Link: https://swce.dukekunshan.edu.cn/projects/agent-based-modeling-for-blockchain-automated-market-maker-and-economic-applications/
 
